@@ -1,6 +1,6 @@
 ---
 Title: Hobby och intressen
-Description: Page about my hobby
+Description:Sida om mina personliga hobby och intressen
 ---
 
 Min hobby
