@@ -1,11 +1,11 @@
 ---
-Title: Presentation
-Description: brief presentation of myself.
+Title: Home
+Description: This is our index page.
 ---
 
-Om mig
+Marcus Portfolio
 ==========================
 
-Hej! Jag heter Marcus och studerar för närvarande programmering på distans paralellt med studier vid LTU och mitt fjärde år på civilekonomprogrammet. 
+The source for this page is in `content/index.md`.
 
-![Picture of Marcus](assets/img/marcus-designbild.jpg)
+This is a sample home page written in markdown with some frontmatter defined.asdsadsa
